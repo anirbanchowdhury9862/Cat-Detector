@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CATS</folder>
+	<filename>Bengal_2.jpg</filename>
+	<path>/home/anirban/Downloads/CATS/Bengal_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>505</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>21</ymin>
+			<xmax>566</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

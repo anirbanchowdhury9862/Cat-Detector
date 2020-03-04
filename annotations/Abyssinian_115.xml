@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CATS</folder>
+	<filename>Abyssinian_115.jpg</filename>
+	<path>/home/anirban/Downloads/CATS/Abyssinian_115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>32</ymin>
+			<xmax>474</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>
